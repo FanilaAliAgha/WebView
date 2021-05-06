@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">communication secction</string>
+    <string name="Vtext">Please Verify</string>
+    <string name="Plese_veriy">Please Type the Verification Code Sent to +xxxxxxxxxxx</string>
+    <string name="number">3</string>
+    <string name="number_1">5</string>
+    <string name="number3">7</string>
+    <string name="number4">9</string>
+    <string name="Verify">Verify</string>
+    <string name="enter_pin_code">Enter_Pin_Code</string>
+    <string name="verify">Verify</string>
+
+
+</resources>

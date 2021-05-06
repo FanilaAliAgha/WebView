@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shadow_round">
+    <shape android:shape="rectangle"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <corners
+            android:topRightRadius="80dp"
+            android:topLeftRadius="80dp"
+            android:bottomLeftRadius="80dp"
+            android:bottomRightRadius="80dp"/>
+
+
+        <solid android:color="@color/white"/>
+    </shape>
+    </item>
+</layer-list>
+
+
